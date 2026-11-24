@@ -50,7 +50,7 @@ git clone https://github.com/Rishab87/chainsleuth.git && cd chainsleuth
 uv sync                                         # Python 3.12 + all dependencies
 ```
 
-**Fastest demo (about 5 minutes).** The results and figures are already committed, so you only need the dashboard's model:
+**Fastest demo (a few minutes, mostly the data download).** The results and figures are already committed, so you only need the dashboard's model:
 
 ```bash
 uv run python -m chainsleuth.pipeline --stages explain    # downloads the data (~150 MB), trains the XGBoost model
