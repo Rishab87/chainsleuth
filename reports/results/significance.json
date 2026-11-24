@@ -1,0 +1,17 @@
+{
+  "lgbm_vs_gat": {
+    "a_right_b_wrong": 566,
+    "a_wrong_b_right": 33,
+    "p_value": 2.1702820657826335e-126
+  },
+  "lgbm_vs_gcn": {
+    "a_right_b_wrong": 453,
+    "a_wrong_b_right": 33,
+    "p_value": 1.8652677821281137e-95
+  },
+  "lgbm_vs_sage": {
+    "a_right_b_wrong": 253,
+    "a_wrong_b_right": 34,
+    "p_value": 1.518068929498407e-42
+  }
+}

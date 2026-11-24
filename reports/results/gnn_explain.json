@@ -1,0 +1,79 @@
+{
+  "examples": [
+    {
+      "node": 158303,
+      "tx_id": 6245395,
+      "sage_prob": 0.9998773336410522,
+      "subgraph_nodes": 3,
+      "subgraph_edges": 4,
+      "top_features": [
+        "agg_57",
+        "local_90",
+        "local_52",
+        "local_88",
+        "agg_55"
+      ],
+      "max_edge_importance": 0.0995028093457222
+    },
+    {
+      "node": 154134,
+      "tx_id": 115949445,
+      "sage_prob": 0.9997525811195374,
+      "subgraph_nodes": 3,
+      "subgraph_edges": 4,
+      "top_features": [
+        "local_88",
+        "local_55",
+        "local_52",
+        "local_53",
+        "agg_55"
+      ],
+      "max_edge_importance": 0.9268818497657776
+    },
+    {
+      "node": 168696,
+      "tx_id": 71989985,
+      "sage_prob": 0.9996066689491272,
+      "subgraph_nodes": 50,
+      "subgraph_edges": 98,
+      "top_features": [
+        "agg_49",
+        "agg_61",
+        "agg_57",
+        "local_53",
+        "local_6"
+      ],
+      "max_edge_importance": 0.9032266139984131
+    },
+    {
+      "node": 167404,
+      "tx_id": 71988756,
+      "sage_prob": 0.9995893836021423,
+      "subgraph_nodes": 50,
+      "subgraph_edges": 98,
+      "top_features": [
+        "agg_49",
+        "agg_63",
+        "agg_2",
+        "agg_61",
+        "agg_19"
+      ],
+      "max_edge_importance": 0.9022216796875
+    },
+    {
+      "node": 170734,
+      "tx_id": 71994046,
+      "sage_prob": 0.9995883107185364,
+      "subgraph_nodes": 50,
+      "subgraph_edges": 98,
+      "top_features": [
+        "agg_57",
+        "local_55",
+        "agg_27",
+        "agg_49",
+        "agg_21"
+      ],
+      "max_edge_importance": 0.9027897715568542
+    }
+  ]
+}

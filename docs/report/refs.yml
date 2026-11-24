@@ -1,0 +1,159 @@
+weber2019:
+  type: article
+  title: "Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics"
+  author: ["Weber, Mark", "Domeniconi, Giacomo", "Chen, Jie", "Weidele, Daniel Karl I.", "Bellei, Claudio", "Robinson, Tom", "Leiserson, Charles E."]
+  date: 2019
+  parent:
+    type: proceedings
+    title: "KDD Workshop on Anomaly Detection in Finance"
+  url: https://arxiv.org/abs/1908.02591
+elmougy2023:
+  type: article
+  title: "Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics"
+  author: ["Elmougy, Youssef", "Liu, Ling"]
+  date: 2023
+  parent:
+    type: proceedings
+    title: "Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '23)"
+  serial-number:
+    doi: "10.1145/3580305.3599803"
+maganti2026:
+  type: article
+  title: "When Graph Structure Becomes a Liability: A Critical Re-Evaluation of Graph Neural Networks for Bitcoin Fraud Detection under Temporal Distribution Shift"
+  author: ["Maganti, Saket"]
+  date: 2026
+  parent:
+    type: repository
+    title: "arXiv preprint"
+  url: https://arxiv.org/abs/2604.19514
+kipf2017:
+  type: article
+  title: "Semi-Supervised Classification with Graph Convolutional Networks"
+  author: ["Kipf, Thomas N.", "Welling, Max"]
+  date: 2017
+  parent:
+    type: proceedings
+    title: "International Conference on Learning Representations (ICLR)"
+hamilton2017:
+  type: article
+  title: "Inductive Representation Learning on Large Graphs"
+  author: ["Hamilton, William L.", "Ying, Rex", "Leskovec, Jure"]
+  date: 2017
+  parent:
+    type: proceedings
+    title: "Advances in Neural Information Processing Systems (NeurIPS)"
+velickovic2018:
+  type: article
+  title: "Graph Attention Networks"
+  author: ["Veličković, Petar", "Cucurull, Guillem", "Casanova, Arantxa", "Romero, Adriana", "Liò, Pietro", "Bengio, Yoshua"]
+  date: 2018
+  parent:
+    type: proceedings
+    title: "International Conference on Learning Representations (ICLR)"
+ying2019:
+  type: article
+  title: "GNNExplainer: Generating Explanations for Graph Neural Networks"
+  author: ["Ying, Rex", "Bourgeois, Dylan", "You, Jiaxuan", "Zitnik, Marinka", "Leskovec, Jure"]
+  date: 2019
+  parent:
+    type: proceedings
+    title: "Advances in Neural Information Processing Systems (NeurIPS)"
+lundberg2017:
+  type: article
+  title: "A Unified Approach to Interpreting Model Predictions"
+  author: ["Lundberg, Scott M.", "Lee, Su-In"]
+  date: 2017
+  parent:
+    type: proceedings
+    title: "Advances in Neural Information Processing Systems (NeurIPS)"
+bifet2007:
+  type: article
+  title: "Learning from Time-Changing Data with Adaptive Windowing"
+  author: ["Bifet, Albert", "Gavaldà, Ricard"]
+  date: 2007
+  parent:
+    type: proceedings
+    title: "Proceedings of the SIAM International Conference on Data Mining (SDM)"
+safar2026:
+  type: article
+  title: "The Enemy of Reproducibility is Opacity: What's Inside the Elliptic Bitcoin Dataset (and Why It Is Wrong)"
+  author: ["Šafář, Miroslav", "Pluskal, Jan", "Veselý, Vladimír", "Ryšavý, Ondřej"]
+  date: 2026
+  parent:
+    type: proceedings
+    title: "DFRWS USA 2026"
+chen2016:
+  type: article
+  title: "XGBoost: A Scalable Tree Boosting System"
+  author: ["Chen, Tianqi", "Guestrin, Carlos"]
+  date: 2016
+  parent:
+    type: proceedings
+    title: "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+ke2017:
+  type: article
+  title: "LightGBM: A Highly Efficient Gradient Boosting Decision Tree"
+  author: ["Ke, Guolin", "Meng, Qi", "Finley, Thomas", "Wang, Taifeng", "Chen, Wei", "Ma, Weidong", "Ye, Qiwei", "Liu, Tie-Yan"]
+  date: 2017
+  parent:
+    type: proceedings
+    title: "Advances in Neural Information Processing Systems (NeurIPS)"
+agrawal1994:
+  type: article
+  title: "Fast Algorithms for Mining Association Rules"
+  author: ["Agrawal, Rakesh", "Srikant, Ramakrishnan"]
+  date: 1994
+  parent:
+    type: proceedings
+    title: "Proceedings of the 20th International Conference on Very Large Data Bases (VLDB)"
+liu2008:
+  type: article
+  title: "Isolation Forest"
+  author: ["Liu, Fei Tony", "Ting, Kai Ming", "Zhou, Zhi-Hua"]
+  date: 2008
+  parent:
+    type: proceedings
+    title: "IEEE International Conference on Data Mining (ICDM)"
+breunig2000:
+  type: article
+  title: "LOF: Identifying Density-Based Local Outliers"
+  author: ["Breunig, Markus M.", "Kriegel, Hans-Peter", "Ng, Raymond T.", "Sander, Jörg"]
+  date: 2000
+  parent:
+    type: proceedings
+    title: "Proceedings of the ACM SIGMOD International Conference on Management of Data"
+blondel2008:
+  type: article
+  title: "Fast Unfolding of Communities in Large Networks"
+  author: ["Blondel, Vincent D.", "Guillaume, Jean-Loup", "Lambiotte, Renaud", "Lefebvre, Etienne"]
+  date: 2008
+  parent:
+    type: periodical
+    title: "Journal of Statistical Mechanics: Theory and Experiment"
+saerens2002:
+  type: article
+  title: "Adjusting the Outputs of a Classifier to New a Priori Probabilities: A Simple Procedure"
+  author: ["Saerens, Marco", "Latinne, Patrice", "Decaestecker, Christine"]
+  date: 2002
+  parent:
+    type: periodical
+    title: "Neural Computation"
+    volume: 14
+    issue: 1
+fey2019:
+  type: article
+  title: "Fast Graph Representation Learning with PyTorch Geometric"
+  author: ["Fey, Matthias", "Lenssen, Jan Eric"]
+  date: 2019
+  parent:
+    type: proceedings
+    title: "ICLR Workshop on Representation Learning on Graphs and Manifolds"
+mcnemar1947:
+  type: article
+  title: "Note on the Sampling Error of the Difference Between Correlated Proportions or Percentages"
+  author: ["McNemar, Quinn"]
+  date: 1947
+  parent:
+    type: periodical
+    title: "Psychometrika"
+    volume: 12
